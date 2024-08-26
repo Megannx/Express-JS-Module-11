@@ -12,4 +12,4 @@ https://megannx.github.io/Express-JS-Module-11/
 
 ## Screenshot of Application
 
-![image](https://github.com/user-attachments/assets/c92d0a13-7c05-4c05-98bc-2a444a946881)
+https://github.com/user-attachments/assets/0934aea7-21f5-4aaf-b4de-2af33d333dba
