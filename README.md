@@ -6,10 +6,6 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-## Link to Website
-
-https://megannx.github.io/Express-JS-Module-11/
-
 ## Screenshot of Application
 
 https://github.com/user-attachments/assets/c080f353-a25b-4610-9c78-fb79e3cd5a05
